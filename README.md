@@ -12,7 +12,25 @@ The analysis focuses on comparing Convolutional Neural Network (CNN) and Support
 
 ## Instructions:
 
-Clone this repository to your local machine.
+1 Clone this repository to your local machine:
 
-git clone https://github.com/your_username/[alzheimers-comparative-analysis](https://github.com/nimish1402/-Comparative-analysis-for-Alzheimer-s-Disease-Prediction-/tree/main).git
+  git clone https://github.com/your_username/[alzheimers-comparative-analysis](https://github.com/nimish1402/-Comparative-analysis-for-Alzheimer-s-Disease-Prediction-/tree/main).git
+
+2 Navigate to the cloned directory:
+
+  cd -Comparative-analysis-for-Alzheimer-s-Disease-Prediction
+
+## Dataset:
+The Alzheimer's disease(ADNI) dataset used in this analysis consists of images categorized into four classes: Mild Demented, Very Mild Demented, Moderate Demented, and Non Demented. 
+The dataset is available at : (https://www.kaggle.com/datasets/tourist55/alzheimers-dataset-4-class-of-images)
+
+## Results:
+
+The results of the comparative analysis, including model performance metrics and visualizations, can be found in the respective Jupyter notebooks.
+
+
+
+
+
+
 
