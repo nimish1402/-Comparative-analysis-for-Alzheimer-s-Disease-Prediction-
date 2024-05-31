@@ -6,8 +6,11 @@ The analysis focuses on comparing Convolutional Neural Network (CNN) and Support
 ## Contents:
 
 1 CNN_Model.ipynb: Jupyter notebook containing code for training and evaluating the CNN model.
+
 2 SVM_Model.ipynb: Jupyter notebook containing code for training and evaluating the SVM model.
+
 3 datasets/: Folder containing the Alzheimer's disease dataset used for training and testing the models.
+
 4 requirements.txt: File listing all the required Python packages for running the code.
 
 ## Instructions:
